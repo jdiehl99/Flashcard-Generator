@@ -1,6 +1,42 @@
 [
     {
-        "partial": "this is a question",
-        "cloze": "question"
-    }
+        "front": "roost means: To rest, sit, or sleep on a perch",
+        "back": "roost"
+    },
+    {
+        "front": "A small jeweled crown worn by women is a tiara",
+        "back": "tiara"
+    },
+    {
+        "front": "To wrinkle the face in displeasure; frown is a scowl",
+        "back": "scowl"
+    },
+    {
+        "front": "A system of interconnectin paths; a maze is called a labyrinth",
+        "back": "labyrinth"
+    },
+    {
+        "front": "culinary is a word meaning: Relating to cooking or the kitchen",
+        "back": "culinary"
+    },
+    {
+        "front": "A brother or sister is also called a sibling",
+        "back": "sibling"
+    },
+    {
+        "front": "vast is a way of saying: Of great size or range",
+        "back": "vast"
+    },
+    {
+        "front": "To be hung from above is to be suspeneded",
+        "back": "suspended"
+    },
+    {
+        "front": "moored means: Fixed in place by cables or the like",
+        "back": "moored"
+    },
+    {
+        "front": "faux is another way of saying: Artificial or imitation; fake",
+        "back": "faux"
+    },
 ]

@@ -1,10 +1,11 @@
 //requires
 
 var basicCard = require('./library/basic.js');
-var cardDate = require('./basic.json');
+var cardData = require('./basic.json');
 var inquirer = require('inquirer');
 
-startgame();
+console.log(cardData[1].front);
+// startgame();
 
 function startGame(){
     //code
@@ -21,3 +22,5 @@ function round(){
 function prompts(){
     //codes
 }
+
+// console.log(object);

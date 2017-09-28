@@ -1,6 +1,42 @@
 [
     {
-        "front": "this is a... ",
-        "back": "question"
+        "front": "To rest, sit, or sleep on a perch",
+        "back": "roost"
     },
+    {
+        "front": "A small jeweled crown worn by women",
+        "back": "tiara"
+    },
+    {
+        "front": "To wrinkle the face in displeasure; frown",
+        "back": "scowl"
+    },
+    {
+        "front": "A system of interconnectin paths; a maze",
+        "back": "labyrinth"
+    },
+    {
+        "front": "Relating to cooking or the kitchen",
+        "back": "culinary"
+    },
+    {
+        "front": "A brother or sister",
+        "back": "sibling"
+    },
+    {
+        "front": "Of great size or range",
+        "back": "vast"
+    },
+    {
+        "front": "Hung from above",
+        "back": "suspended"
+    },
+    {
+        "front": "Fixed in place by cables or the like",
+        "back": "moored"
+    },
+    {
+        "front": "Artificial or imitation; fake",
+        "back": "faux"
+    }
 ]

@@ -10,4 +10,3 @@ function clozeCard(something, something){
     }
     
     module.exports = clozeCard;
-    
