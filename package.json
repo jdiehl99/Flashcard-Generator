@@ -2,7 +2,7 @@
   "name": "flashcard-generator",
   "version": "1.0.0",
   "description": "Test your knowledge with these virtual flashcards",
-  "main": "flashcard.js",
+  "main": "basicCard.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
